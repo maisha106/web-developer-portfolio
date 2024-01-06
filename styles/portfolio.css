@@ -107,6 +107,10 @@ main {
     margin: 0 auto;
 }
 
+main section {
+    margin: 130px;
+}
+
 /* about section style */
 .about {
     padding: 130px;
@@ -144,7 +148,7 @@ main {
     color: #757575;
 }
 
-.resume-colum-title {
+.resume-column-title {
     color: #474747;
     font-size: 30px;
     font-weight: 700;
